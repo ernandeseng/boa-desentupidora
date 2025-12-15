@@ -343,11 +343,11 @@ ul {
 /* Problem Solver Section (New) */
 .problem-solver-section {
     background-color: var(--bg-grey);
-    padding: 80px 0;
+    padding: 40px 0;
 }
 
 .problem-header {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .problem-title-red {
@@ -420,11 +420,11 @@ ul {
 
 /* Services */
 .section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 .section-header {
-    margin-bottom: 70px;
+    margin-bottom: 40px;
     text-align: center;
 }
 
@@ -544,7 +544,7 @@ ul {
 /* CTA Strip */
 .cta-strip {
     background: var(--primary-color);
-    padding: 80px 0;
+    padding: 40px 0;
     color: var(--white);
     position: relative;
     overflow: hidden;
@@ -585,7 +585,7 @@ ul {
     background: linear-gradient(to bottom, #001e3c, #001020);
     /* Deep professional blue/black */
     color: #b0bec5;
-    padding: 80px 0 30px;
+    padding: 40px 0 20px;
     font-size: 0.95rem;
     border-top: 5px solid var(--secondary-color);
 }
@@ -594,7 +594,7 @@ ul {
     display: grid;
     grid-template-columns: 1.5fr 1fr 1fr;
     gap: 60px;
-    margin-bottom: 60px;
+    margin-bottom: 30px;
 }
 
 .footer-logo {
@@ -727,7 +727,7 @@ ul {
 
 /* Best Prices Section */
 .best-prices-section {
-    padding: 80px 0;
+    padding: 40px 0;
     background-color: var(--white);
     overflow: hidden;
 }
@@ -740,7 +740,7 @@ ul {
 }
 
 .prices-title-wrapper {
-    margin-bottom: 40px;
+    margin-bottom: 25px;
     position: relative;
 }
 
@@ -935,7 +935,7 @@ ul {
 .why-choose-us-section {
     background-color: #d1d1d1;
     background-image: linear-gradient(to bottom, #e0e0e0, #cfcfcf);
-    padding: 80px 0;
+    padding: 40px 0;
     text-align: center;
 }
 
@@ -944,7 +944,7 @@ ul {
     font-weight: 900;
     color: #004080;
     /* Deep Blue Solid */
-    margin-bottom: 60px;
+    margin-bottom: 30px;
     text-transform: uppercase;
     line-height: 1.1;
     font-family: 'Roboto', sans-serif;
@@ -955,7 +955,7 @@ ul {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     gap: 30px;
-    margin-bottom: 60px;
+    margin-bottom: 30px;
 }
 
 .why-card {
@@ -1053,7 +1053,7 @@ ul {
 .contact-section {
     background-color: #e0e0e0;
     /* Light grey from image */
-    padding: 80px 0;
+    padding: 40px 0;
     overflow: hidden;
 }
 
